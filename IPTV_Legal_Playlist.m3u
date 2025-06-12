@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="France 24 (FR)" group-title="News",France 24 (FR)
+https://static.france24.com/live/F24_FR_HI/index.m3u8
+
+#EXTINF:-1 tvg-name="France 24 (EN)" group-title="News",France 24 (EN)
+https://static.france24.com/live/F24_EN_HI/index.m3u8
+
+#EXTINF:-1 tvg-name="Euronews (FR)" group-title="News",Euronews (FR)
+https://www.youtube.com/channel/UCfr6EhRFym1zqyl1WGE6Nag/live
+
+#EXTINF:-1 tvg-name="Arte" group-title="Culture",Arte
+https://arte-cmafhls.akamaized.net/hls/live/2031011/artelive_fr/index.m3u8
+
+#EXTINF:-1 tvg-name="NASA TV" group-title="Science",NASA TV
+https://www.nasa.gov/multimedia/nasatv/NTV-Public-IPS.m3u8
+
+#EXTINF:-1 tvg-name="Red Bull TV" group-title="Sport",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-name="Fuel TV" group-title="Sport",Fuel TV (Free)
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-redboxfueltv/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Runtime Movies" group-title="Cinema",Runtime Movies (EN)
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-runtimechannel-runtime-movies/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cine Romántico" group-title="Cinema",Cine Romántico
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-cine_romantico/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FilmRise Movies" group-title="Cinema",FilmRise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrise-films/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MovieSphere" group-title="Cinema",MovieSphere
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-moviesphere/CDN/playlist.m3u8
